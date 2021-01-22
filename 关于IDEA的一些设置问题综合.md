@@ -3,7 +3,7 @@
 ### 1.关于Maven仓库的修改
 
 ![image-20210117164158093](E:\Program f\Typora\Project\image-20210117164158093.png)
-
+![image-20210117164158093](https://github.com/Think2twice/TestGit/blob/master/image-20210117164158093.png)
 在setting->Build，Execution，Development->Build Tools->Maven设置中，
 
 关于User settings file和Local repository中，有两个选项
